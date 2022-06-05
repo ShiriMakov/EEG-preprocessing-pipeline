@@ -1,6 +1,6 @@
 # Preprocessing of EEG raw data for hypothesis testing and predictive modeling
  
-This is a fundamental pipeline for semi-manual pre-processing of EEG data, using the MNE-python package (https://mne.tools/stable/index.html).
+This is a fundamental pipeline for semi-manual pre-processing of EEG (ElectroEncephalyGraphic) data, using the MNE-python package (https://mne.tools/stable/index.html).
 
 It includes the following stages:
 
